@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bckspce.png</file>
+        <file>calc.png</file>
+    </qresource>
+</RCC>
